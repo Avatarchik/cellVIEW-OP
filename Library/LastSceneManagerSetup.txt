@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/tklein/Desktop/cellVIEW-i-master/Assets/Scenes/untitled.unity
+  isLoaded: 1
+  isActive: 1
